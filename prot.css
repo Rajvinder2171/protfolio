@@ -33,7 +33,7 @@ header .logo {
 }
 
 #main {
-    background-image: url("images/bookper.jpg");
+    background-image: url("bookper.jpg");
     background-repeat: no-repeat;
     background-position: top;
     /* background-size:; */
